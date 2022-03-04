@@ -1,5 +1,8 @@
 # Frontend Mentor - Huddle landing page with single introductory section
 
+https://akhlak-hossain-jim.github.io/huddle-landing-page-with-single-introductory-section/ <br>
+https://github.com/Akhlak-Hossain-Jim/huddle-landing-page-with-single-introductory-section
+
 ![Design preview for the Huddle landing page with single introductory section](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
