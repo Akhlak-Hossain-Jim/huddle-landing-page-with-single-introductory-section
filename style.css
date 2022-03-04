@@ -139,14 +139,14 @@ button:focus {
   background-color: #e980e7;
   color: #ffe7ff;
 }
-footer.one {
+div.one {
   display: flex;
   align-items: center;
   justify-content: flex-end;
   padding-bottom: 40px;
 }
 @media (max-width: 548px) {
-  footer.one {
+  div.one {
     justify-content: center;
     padding-bottom: 80px;
   }
