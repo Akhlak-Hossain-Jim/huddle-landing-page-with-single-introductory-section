@@ -28,7 +28,7 @@ body {
   /* background-attachment: fixed; */
   font-family: var(--font-2);
 }
-@media (min-width: 1440px) and (min-height: 800px) {
+@media (min-width: 1441px) and (min-height: 801px) {
   .cont {
     background-size: 1318px 800px;
   }
@@ -60,17 +60,16 @@ header {
 main {
   padding-top: 33.04px;
   padding-bottom: 21px;
-  display: grid;
-  grid-template-columns: 1fr 1fr;
+  display: flex;
 }
 @media (max-width: 548px) {
   main {
-    grid-template-columns: 1fr;
+    flex-direction: column;
   }
 }
 
 .left {
-  max-width: min(100%, 709px);
+  width: min(100%, 709px);
 }
 .left img {
   max-width: 100%;
